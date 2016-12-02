@@ -3,7 +3,7 @@ var topbar = $(parent.parent.document.body).find("#topbar")
 
 editor.find("div").css({background:"black"})
 
-topbar.find("input").css({font-family: "Comic Sans MS", "Comic Sans", cursive;})
+topbar.find("input").css({"font-family": "Comic Sans MS", "Comic Sans", cursive;})
 
 var allDivsInTheEditor = editor.find("div")
 
