@@ -3,6 +3,8 @@ var topbar = $(parent.parent.document.body).find("#topbar")
 
 editor.find("div").css({background:"black"})
 
+topbar.find("")
+
 var allDivsInTheEditor = editor.find("div")
 
 topbar
